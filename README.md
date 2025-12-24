@@ -1,5 +1,5 @@
 # Global-EV-Sales-Analysis
-<h1>Author</h1>
+Author
 <Br>
 Ishwor Chandra Paudyal (ICP)
 <Br>

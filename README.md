@@ -70,7 +70,7 @@ Data is based on publicly available global EV market statistics.
 ---
 
 ##  Key Insights
-- Charts/ev_sales_2015_2025.jpeg
+- ![Global-EV-Sales-Analysis Chart](Charts/ev_sales_2015_2025.jpeg)
 - EV sales increased from **0.52 million in 2015** to **17.5 million in 2024**
 - Growth accelerated after 2020 due to policy incentives and cost reduction
 - China dominates global EV sales

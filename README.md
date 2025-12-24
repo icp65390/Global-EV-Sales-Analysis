@@ -79,10 +79,10 @@ Data is based on publicly available global EV market statistics.
 ---
 
 ##  Forecast Summary
-- 2025: ~22 million EVs
-- 2030: ~40 million EVs
-- 2035: ~70 million EVs
-
+- 2026: ~31.03 million EVs
+- 2030: ~147.99 million EVs
+- 2035: ~1042.87 million EVs
+- ![Global-EV-Sales-Analysis Chart](Charts/ev_sales_2026_2035.jpeg)
 ---
 
 ##  Business Impact
